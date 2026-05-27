@@ -46,9 +46,3 @@
 
 `Hongwon Kim` · `김홍원` · `Skiing` · `Swimming` · `Balance` · `Rhythm` · `Consistency`
 
----
-
-### Image Credits
-
-- Skiing image: Photo by Michael Fischer on [Unsplash](https://unsplash.com/photos/a-person-skiing-down-a-snow-covered-mountain-9zQBpl5ySY4)
-- Swimming pool image: Photo by Thomas Park on [Unsplash](https://unsplash.com/s/photos/swimmer)
