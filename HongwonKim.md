@@ -1,0 +1,54 @@
+# 김홍원 | Hongwon Kim
+
+> 눈 위에서는 속도와 균형을 즐기고, 물속에서는 꾸준한 리듬으로 몸과 마음을 다듬는 사람입니다.
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1726688648196-c5d505af321e?auto=format&fit=crop&fm=jpg&q=80&w=1600" alt="눈 덮인 산에서 스키를 타는 풍경" width="100%" />
+</p>
+
+## 👋 소개
+
+안녕하세요. 제 이름은 **김홍원**이고, 영어 이름은 **Hongwon Kim**입니다.  
+제가 가장 좋아하는 취미는 **스키**이며, 현재 꾸준히 하고 있는 취미생활은 **수영**입니다.
+
+스키는 차가운 공기 속에서 속도감과 균형감을 동시에 느낄 수 있는 활동이라 좋아하고, 수영은 일정한 호흡과 반복되는 움직임 속에서 몸을 단련하면서도 머리를 맑게 해 주는 운동이라 계속 이어가고 있습니다.
+
+## 🎿 Favorite Hobby: Skiing
+
+스키는 제게 단순한 겨울 스포츠라기보다, 눈 위에서 집중력과 자유로움을 동시에 느끼게 해 주는 취미입니다. 경사면을 내려오며 균형을 잡고, 방향을 선택하고, 순간순간 속도를 조절하는 과정이 매력적입니다.
+
+- 좋아하는 포인트: 속도감, 균형감, 겨울 산의 풍경
+- 느끼는 매력: 집중해야 할 때는 집중하고, 흘려보낼 때는 자연스럽게 움직이는 리듬
+- 한 줄 표현: **“차가운 공기 속에서 가장 선명하게 깨어나는 시간”**
+
+## 🏊 Current Hobby: Swimming
+
+현재 꾸준히 하고 있는 취미는 수영입니다. 수영은 몸에 부담을 비교적 적게 주면서도 전신을 사용하는 운동이고, 호흡과 자세를 조금씩 개선해 나가는 재미가 있습니다. 물속에서 일정한 페이스를 유지하다 보면 자연스럽게 잡념이 줄어들고, 운동 후에는 몸이 가볍게 정리되는 느낌이 듭니다.
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1558617320-e695f0d420de?auto=format&fit=crop&fm=jpg&q=80&w=1600" alt="수영장 레인과 물결" width="100%" />
+</p>
+
+- 좋아하는 포인트: 규칙적인 호흡, 전신 운동, 물속의 차분함
+- 느끼는 매력: 매번 조금씩 자세와 체력이 좋아지는 누적의 재미
+- 한 줄 표현: **“물속에서 천천히 쌓아 올리는 꾸준함”**
+
+## 🌊 My Hobby Style
+
+저는 취미를 통해 단순히 시간을 보내기보다는, 몸을 움직이면서 집중하고 회복하는 시간을 만드는 편입니다. 스키가 겨울 산에서 느끼는 역동적인 즐거움이라면, 수영은 일상 속에서 꾸준히 리듬을 만들어 주는 안정적인 루틴에 가깝습니다.
+
+| 구분 | 취미 | 의미 |
+|---|---|---|
+| 좋아하는 취미 | 스키 | 속도감과 균형감, 겨울 풍경을 즐기는 활동 |
+| 현재 하는 취미 | 수영 | 호흡과 자세를 다듬으며 꾸준히 이어가는 운동 |
+
+## 📌 Keywords
+
+`Hongwon Kim` · `김홍원` · `Skiing` · `Swimming` · `Balance` · `Rhythm` · `Consistency`
+
+---
+
+### Image Credits
+
+- Skiing image: Photo by Michael Fischer on [Unsplash](https://unsplash.com/photos/a-person-skiing-down-a-snow-covered-mountain-9zQBpl5ySY4)
+- Swimming pool image: Photo by Thomas Park on [Unsplash](https://unsplash.com/s/photos/swimmer)
